@@ -7,9 +7,6 @@ class ApplicationController < ActionController::Base
   render text: "Hello Abbas"
   end
   
-  def death
-  render text: "Die World"
-  end
   
   
 end
